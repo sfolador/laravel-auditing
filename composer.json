@@ -1,6 +1,6 @@
 {
-    "name": "owen-it/laravel-auditing",
-    "description": "Audit changes of your Eloquent models in Laravel/Lumen",
+    "name": "sfolador/laravel-auditing",
+    "description": "Audit changes of your Eloquent models in Laravel/Lumen - Forked from OwenIt",
     "keywords": [
         "accountability",
         "audit",
@@ -21,8 +21,8 @@
     "type": "package",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/owen-it/laravel-auditing/issues",
-        "source": "https://github.com/owen-it/laravel-auditing"
+        "issues": "https://github.com/sfolador/laravel-auditing/issues",
+        "source": "https://github.com/sfolador/laravel-auditing"
     },
     "authors": [
         {
@@ -36,6 +36,10 @@
         {
             "name": "Raphael França",
             "email": "raphaelfrancabsb@gmail.com"
+        },
+        {
+            "name": "Simone Folador",
+            "email": "sfolador@gmail.com"
         }
     ],
     "require": {
