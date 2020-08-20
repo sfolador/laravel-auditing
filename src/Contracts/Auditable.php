@@ -127,5 +127,5 @@ interface Auditable
      *
      * @return Auditable
      */
-    public function transitionTo(Audit $audit, bool $old = false): Auditable;
+    public function overwrittenTransitionTo(Audit $audit, bool $old = false): Auditable;
 }
